@@ -1,0 +1,12 @@
+# CHANGELOG
+
+
+## v0.1.0 (2025-01-22)
+
+### Features
+
+- Add release workflow
+  ([`3466e0e`](https://github.com/kwevers/stunnel/commit/3466e0e8b49760c863f84dae5e0b5fe863626b2f))
+
+- Initial commit
+  ([`e6b3352`](https://github.com/kwevers/stunnel/commit/e6b335247ae25f048438a9c8de2a2acaefca9d7c))

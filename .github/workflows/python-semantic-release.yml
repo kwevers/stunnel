@@ -22,7 +22,7 @@ jobs:
           ref: ${{ github.ref_name }}
 
       - name: Create release
-        uses: python-semantic-release/python-semantic-release@v9
+        uses: kwevers/python-semantic-release@bugfix/python-byte-code
         with:
           force: minor
           github_token: ${{ secrets.GITHUB_TOKEN }}
